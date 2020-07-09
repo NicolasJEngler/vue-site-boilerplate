@@ -11,6 +11,7 @@
   </div>
 </template>
 
-<style>
-
+<!-- This style tag in particular supports Sass because of the lang attribute assigned -->
+<style lang="scss">
+  $black: #000;
 </style>

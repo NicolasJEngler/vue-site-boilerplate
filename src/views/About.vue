@@ -2,7 +2,7 @@
   <div class="about">
     <h2>About this project</h2><br>
     <p>This project was built using <a href="" title="new.css repository">new.css</a> for basic styling, and <code>Vue Router</code> for routing.</p>
-    <p>Check <code>src/main.js</code> to see how <code>new.css</code> was included and check <code>src/router/index.js</code> to see how routing is handled.</p>
+    <p>Check <code>src/main.js</code> to see how <code>new.css</code> was included and check <code>src/router/index.js</code> to see how routing is handled. Sass is also supported, check <code>src/App.vue</code> to learn more about it.</p>
     <p>Feel free to follow me on social media if you'd like:</p>
     <ul>
       <li>
